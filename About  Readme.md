@@ -1,6 +1,19 @@
 # Mathematics of Machine Learning Summer School (Alan Turing Institute)
+<p align="center">
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0boTwrE9uuCmdnfhD6i_4Nw9N3Wlf-YrKg&s">
+    <img 
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0boTwrE9uuCmdnfhD6i_4Nw9N3Wlf-YrKg&s" 
+      alt="Logo" 
+      style="width:100%; height:200px; object-fit:cover; border-radius:10px;"
+    >
+  </a>
+  <h3 align="center">Alan Turing Institute ML Summer School 2025 </h3>  
+</p>
 
-![Alan Turing Institute Logo](https://www.turing.ac.uk/sites/default/files/styles/media_crop/public/media/ATI_Logo_0.png)
+ <h4 align="center">*Image courtesy of Stanford Code in Place / LinkedIn*  
+Source: [advai — Alan Turing Insitute](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0boTwrE9uuCmdnfhD6i_4Nw9N3Wlf-YrKg&s) </h4>
+# Alan Turing Institute ( Summer School ) – Mathematics for Machine Learning 
+
 
 ## Overview
 
