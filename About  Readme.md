@@ -4,14 +4,14 @@
     <img 
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0boTwrE9uuCmdnfhD6i_4Nw9N3Wlf-YrKg&s" 
       alt="Logo" 
-      style="width:100%; height:200px; object-fit:cover; border-radius:10px;"
+      style="width:85%; height:200px; object-fit:cover; border-radius:10px;"
     >
   </a>
   <h3 align="center">Alan Turing Institute ML Summer School 2025 </h3>  
 </p>
 
- <h4 align="center">*Image courtesy of Stanford Code in Place / LinkedIn*  
-Source: [advai — Alan Turing Insitute](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0boTwrE9uuCmdnfhD6i_4Nw9N3Wlf-YrKg&s) </h4>
+ <h4 align="center">*Image courtesy of Alan Turing Institute / advai  
+Source: [advai — Alan Turing Insitute]</h4>
 # Alan Turing Institute ( Summer School ) – Mathematics for Machine Learning 
 
 
