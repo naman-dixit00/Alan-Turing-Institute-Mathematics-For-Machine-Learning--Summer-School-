@@ -85,4 +85,4 @@ This repository is for educational purposes. Please refer to the original course
 
 ---
 
-*Compiled and organized by [Your Name/Username] to provide a comprehensive reference for learners and practitioners in machine learning.*
+*Compiled and organized by Naman Dixit to provide a comprehensive reference for learners and practitioners in machine learning.*
