@@ -99,3 +99,4 @@ This repository is for educational purposes. Please refer to the original course
 ---
 
 *Compiled and organized by Naman Dixit to provide a comprehensive reference for learners and practitioners in machine learning.*
+Original work - Slides , lectures , practicles onwer and author is alan turing institute and the contant in this reposiotry is not for sharing purpose its only add for the recognition as a proof i have learned and works this content during the summer school 
